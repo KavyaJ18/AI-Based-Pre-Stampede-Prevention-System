@@ -102,19 +102,6 @@ The system provides alerts through:
 
 ---
 
-## Project Structure
-.
-├── app.py
-├── capacity.py
-├── pi_camera_server.py
-├── users.db
-├── yolov5s.pt
-├── templates/
-├── static/
-└── README.md
-
----
-
 ## How to Run the Project
 1. Clone the repository
 2. Install required dependencies  
@@ -131,6 +118,4 @@ HUSH RUSH demonstrates how artificial intelligence and computer vision can be ef
 
 ---
 
-## Developed By
-Final Year Engineering Students  
-Department of Computer Science / Artificial Intelligence / Data Science
+
